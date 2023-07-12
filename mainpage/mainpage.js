@@ -1,12 +1,12 @@
 function mainPage() {
-    window.location.href = "file:///Users/bagseonghyeon/Desktop/project.web/mainpage/mainpage.html";
+    window.location.href = "../mainpage/mainpage.html";
 }
 function projectPage() {
-    window.location.href = "file:///Users/bagseonghyeon/Desktop/project.web/project/project.html";
+    window.location.href = "../project/project.html";
 }
 function studyPage() {
-    window.location.href = "file:///Users/bagseonghyeon/Desktop/project.web/study/study.html";
+    window.location.href = "../study/study.html";
 }
 function contactPage() {
-    window.location.href = "file:///Users/bagseonghyeon/Desktop/project.web/contact/contact.html";
+    window.location.href = "../contact/contact.html";
 }
